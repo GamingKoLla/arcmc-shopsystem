@@ -1,0 +1,6 @@
+{
+  "name": "ArcEdgeShopSystem - Paper Plugin & Admin Studio",
+  "description": "Enterprise-grade Paper 26.x player shop plugin with 32 slots, LuckPerms permission scaling, Dialog API, zero-exploit transactional economy, and interactive web dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
